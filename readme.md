@@ -1,5 +1,5 @@
 Este é um trabalho do 3° semestre da disciplina de Projeto Integrado do curso de Sistemas e Mídias Digitais da Universidade Federal do Ceará.
-Trata-se de um repositório online acessível que reune projetos relacionados a acessbilidade.
+Trata-se de um repositório online acessível que reune projetos relacionados a acessibilidade.
 
 ___________Equipe: Neo_______________
 
