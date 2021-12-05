@@ -1,11 +1,11 @@
 import React from "react";
-
+import "./Footer.css";
 class Footer extends React.Component{
     render(){
         return(
-            <div>
-            <h0>Rodapé</h0>
-            </div>
+            <footer className="footer">
+                <p>Sistemas e mídias digitais<br/> Equipe Neo, 2021<br/>Universidade Federal do Ceará. </p>
+            </footer>
         )
     }
 }
