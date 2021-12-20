@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 import Header from './Header';
-import Footer from './footer';
+import Footer from './Footer';
 import Inner from './Inner';
 import Rotear from "./routes";
 
