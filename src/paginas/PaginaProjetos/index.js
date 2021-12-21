@@ -2,7 +2,7 @@ import React from "react";
 
 const Projetos = ()=>{
     return(
-        <h0>Minha pomba</h0>
+        <h0>Minha págiana</h0>
     );
 }
 
