@@ -1,4 +1,7 @@
+import { Link } from 'react-router-dom';
+
 export const MenuItens = [
+
   {
     title: "Home",
     url:"#",
@@ -11,7 +14,7 @@ export const MenuItens = [
   },
   {
     title: "Contate-nos",
-    url:"#",
+    url: "#",
     cName: 'nav-links'
   },
   {
